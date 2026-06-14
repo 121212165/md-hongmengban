@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "Markdown Editor"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "Markdown Editor for HarmonyOS"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "MD Editor"
+    }
+  ]
+}
