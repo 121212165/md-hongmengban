@@ -1,0 +1,12 @@
+{
+  "test": {
+    "testList": [
+      "test/DocumentModel.test.ets",
+      "test/MarkdownParser.test.ets",
+      "test/CommonConstants.test.ets",
+      "test/FileService.test.ets",
+      "test/EditorComponents.test.ets",
+      "test/PreviewComponents.test.ets"
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+# Obfuscation rules for Harmony MD Editor
+# Keep essential names to avoid runtime crashes
+
+# Disable aggressive obfuscation
+-disable-obfuscation
+
+# Alternatively, keep specific names only
+# -keep-file-name entry
+# -keep-property-name
+# -keep-global-name
