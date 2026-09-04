@@ -1,0 +1,7 @@
+{
+  "src": [
+    "pages/main/WorkspacePage",
+    "pages/main/EditorPage",
+    "pages/main/PreviewPage"
+  ]
+}
